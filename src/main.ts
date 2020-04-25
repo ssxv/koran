@@ -1,1 +1,1 @@
-console.log('This is Koran')
+export * from './transitional';
