@@ -1,6 +1,6 @@
 {
     "name": "koran",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "effective state management tool",
     "main": "dist/main.js",
     "scripts": {
@@ -14,14 +14,17 @@
         "test:cov": "jest --coverage"
     },
     "keywords": [
-        "state",
-        "states",
-        "status",
-        "statuses",
-        "transition",
-        "transitions",
-        "management",
-        "machine"
+        "state-management",
+        "nodejs-state-management",
+        "node-state-management",
+        "status-management",
+        "nodejs-status-management",
+        "node-status-management",
+        "transition-management",
+        "nodejs-transition-management",
+        "node-transition-management",
+        "state-machine",
+        "finite-state-machine"
     ],
     "repository": {
         "type": "git",
